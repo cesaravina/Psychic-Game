@@ -1,0 +1,12 @@
+body {
+	width: 900px; 
+	margin: 0 auto; 
+	background-image: url("assets/images/concrete.png");
+    background-color: #cccccc;
+}
+
+#banner {
+	margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
